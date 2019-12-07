@@ -2,9 +2,6 @@
 
 """astroPHD_module_autoinstaller setup.py.
 
-setup method referenced from
-referenced from https://github.com/pytorch/vision/blob/master/setup.py
-
 TODO
 ----
 allow setting the configuration options when install
